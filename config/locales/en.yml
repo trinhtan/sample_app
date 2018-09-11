@@ -31,3 +31,30 @@
 
 en:
   hello: "Hello world"
+
+  layouts:
+    application:
+      title: "Ruby on Rails Tutorial Sample App"
+
+  static_pages:
+    home:
+      this: "This is the home page for the"
+      href: "Ruby on Rails Tutorial"
+    help:
+      p1: "Get help on the Ruby on Rails Tutorial at the"
+      href1: "Rails Tutorial help page"
+      p2: "To get help on this sample app, see the"
+      href2: "Ruby on Rails Tutorial"
+    contact:
+      p: "Contact the Ruby on Rails Tutorial about the sample app at the"
+      href: "contact page"
+     about:
+      r: "Ruby on Rails Tutorial"
+      sc: "screencast series"
+      to: "to teach web development with"
+      rb: "Ruby on Rails"
+      th: "This is the sample application for the tutorial."
+
+  sessions_cotroller:
+    in: "Invalid email/password combination"
+
