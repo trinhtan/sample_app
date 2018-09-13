@@ -48,7 +48,6 @@ en:
       home: "Home"
       help: "Help"
       login: "Login"
-
   static_pages:
     home:
       title: "Home"
@@ -86,3 +85,7 @@ en:
   users:
     new:
       title: "Sign up"
+      name: "Sign up"
+      co: "Confirmation"
+      cr: "Create my account"
+      wel: "Welcome to Sample App"
