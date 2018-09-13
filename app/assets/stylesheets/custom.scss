@@ -2,6 +2,7 @@
 @import 'bootstrap';
 @import 'color';
 
+/* mixins, variables, etc. */
 @mixin box_sizing {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -99,7 +100,6 @@ footer {
     }
   }
 }
-<<<<<<< HEAD
 
 .debug_dump {
   clear: both;
@@ -173,5 +173,3 @@ input {
     color: $state-danger-text;
   }
 }
-=======
->>>>>>> master

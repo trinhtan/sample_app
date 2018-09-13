@@ -35,15 +35,31 @@ en:
   layouts:
     application:
       title: "Ruby on Rails Tutorial Sample App"
+      base_title: "Ruby on Rails Tutorial Sample App"
+    _footer:
+      the: "The"
+      ru: "Ruby on Rails Tutorial"
+      by: "by"
+      about: "About"
+      contact: "Contact"
+      news: "News"
+    _header:
+      name: "sample app"
+      home: "Home"
+      help: "Help"
+      login: "Login"
 
   static_pages:
     home:
+      title: "Home"
       this: "This is the home page for the"
       href: "Ruby on Rails Tutorial"
       name: "Sample App"
       name2: "sample application."
       title: "Home|Ruby on Rails Tutorial Sample App"
+      signup: "Sign up now!"
     help:
+      title: "Help"
       p1: "Get help on the Ruby on Rails Tutorial at the"
       href1: "Rails Tutorial help page"
       p2: "To get help on this sample app, see the"
@@ -52,10 +68,12 @@ en:
       name: "Help"
       book: "book"
     contact:
+      title: "Contact"
       p: "Contact the Ruby on Rails Tutorial about the sample app at the"
       href: "contact page"
       name: "Contact"
     about:
+      title: "About"
       the: "The"
       is: "is a"
       book: "book"
@@ -65,3 +83,6 @@ en:
       to: "to teach web development with"
       rb: "Ruby on Rails"
       this: "This is the sample application for the tutorial."
+  users:
+    new:
+      title: "Sign up"
