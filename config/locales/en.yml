@@ -47,7 +47,12 @@ en:
       name: "sample app"
       home: "Home"
       help: "Help"
-      login: "Login"
+      login: "Log in"
+      users: "Users"
+      account: "Account"
+      profile: "Profile"
+      settings: "Settings"
+      logout: "Log out"
   static_pages:
     home:
       title: "Home"
@@ -89,3 +94,12 @@ en:
       co: "Confirmation"
       cr: "Create my account"
       wel: "Welcome to Sample App"
+  sessions:
+    invalid: "Invalid email/password combination"
+    title: "Log in"
+    name: "Log in"
+    login: "Log in"
+    signup: "Sign up now!"
+  shared:
+    theform: "The form contains "
+    error: "error"
