@@ -94,6 +94,22 @@ en:
       co: "Confirmation"
       cr: "Create my account"
       wel: "Welcome to Sample App"
+    edit:
+      title: "Edit user"
+      cofirm: "Confirmation"
+      save: "Save changes"
+      name: "Update your profile"
+      change: "Change"
+    pr_updated: "Profile updated"
+    pl: "Please log in."
+    user_deleted: "User deleted"
+    notice: "You must login first"
+    index:
+      title: "All users"
+      name: "All users"
+    _user:
+      delete: "delete"
+      you_sure: "You sure?"
   sessions:
     invalid: "Invalid email/password combination"
     title: "Log in"
